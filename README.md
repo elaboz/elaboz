@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ela bozoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ela bozoglan" height="30" width="40" /></a>
 <a href="https://instagram.com/bozoglanelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bozoglanelaa" height="30" width="40" /></a>
-<a href="https://www.behance.net/ela bozoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ela bozoglan" height="30" width="40" /></a>
+<a href="https://www.behance.net/e1998bozog3cee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ela bozoglan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/elaabozoglan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elaabozoglan" height="30" width="40" /></a>
 <a href="https://discord.gg/elabozoglan#4311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elabozoglan#4311" height="30" width="40" /></a>
 </p>
